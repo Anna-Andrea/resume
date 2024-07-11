@@ -1,3 +1,3 @@
 # resume
 
-HTML version resume.
+pdf resume online.
